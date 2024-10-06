@@ -1,18 +1,16 @@
 # Olá, eu sou o Felipe! 👋
 
-Desenvolvedor Android apaixonado por tecnologia e sempre buscando aprender coisas novas. Atualmente focado no desenvolvimento de aplicativos móveis com **Java** e explorando estruturas de dados e algoritmos.
+Desenvolvedor Android apaixonado por tecnologia e sempre buscando aprender coisas novas. Atualmente focado no desenvolvimento de aplicativos móveis com **Java** e explorando estruturas de dados e algoritmos. Também estou cursando **Engenharia de Software** na UNOPAR.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-santos-0571ba2b2/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_8000/)
 
-## 🛠️ Minhas skills
-
-- **Ferramentas:**  
+## Minhas skills
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
 
-## 🔥 Projetos em Destaque
+## Projetos em Destaque
 
 ### 📱 [KanBase](https://github.com/felipeS5/KanBase)
 Aplicativo Android desenvolvido em **Java** que permite os usuários gerenciarem suas tarefas. Destaques:
@@ -21,7 +19,7 @@ Aplicativo Android desenvolvido em **Java** que permite os usuários gerenciarem
 - Armazenamento local de tarefas
 - Login e sincronização com Firebase
 
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div style="align-items: center; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center;">
     <div>
